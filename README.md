@@ -2,7 +2,7 @@
 This is the readme file for the repository for group 31 (Shreeya Agarwal &amp; Shuvam Mishra) 
 
 ## Problem Statement:
-For the past few years, millenials have been accused for lacking basic financial literacy by the baby-boomer generation. While it is true that a level of negligence has creeped in, the problem lies in the fact that this generation is not as exposed to their finances as their parents which has led to them not speaking about this in the open. What we aim to do is to simply provide people of all ages a simple and easy wy to access the basics of their personal finances in a manner that's easy to understand and provides a clear pathway to get back on the right track.
+For the past few years, millenials have been accused for lacking basic financial literacy by the baby-boomer generation. While it is true that a level of negligence has creeped in, the problem lies in the fact that this generation is not as exposed to their finances as their parents which has led to them not speaking about this in the open. What we aim to do is to simply provide people of all ages a simple and easy way to access the basics of their personal finances in a manner that's easy to understand and provides a clear pathway to get back on the right track.
 
 ## Problem Setting:
 We shall focus on the 5 Ws:
