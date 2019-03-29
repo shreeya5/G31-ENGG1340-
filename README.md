@@ -4,10 +4,6 @@ This is the readme file for the repository for group 31 (Shreeya Agarwal &amp; S
 ## Problem Statement:
 For the past few years, millenials have been accused for lacking basic financial literacy by the baby-boomer generation. While it is true that a level of negligence has creeped in, the problem lies in the fact that this generation is not as exposed to their finances as their parents which has led to them not speaking about this in the open. What we aim to do is to simply provide people of all ages a simple and easy way to access the basics of their personal finances in a manner that's easy to understand and provides a clear pathway to get back on the right track.
 
-We will use C++ to build this program
-The program shall be built in stages with each stage being built in around a week and will be completed by the the 27th of April, 2019.
-For project details, scroll down to Program Features.
-
 
 ## Problem Setting:
 We shall focus on the 5 Ws:
@@ -21,6 +17,11 @@ When: Right now, as soon as the project is complete
 Where: Worldwide, since this is a public repo
 
 Why: Because we are truly passionate about this project and believe personally in its aims, methods and implementation.
+
+We will use C++ to build this program 
+The program shall be built in stages with each stage being built in around a week and will be completed by the the 27th of April, 2019.
+For project details, scroll down to Program Features.
+
 
 ## Program Features:
 
