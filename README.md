@@ -46,5 +46,6 @@ As a result of the program, we plan to *place power back in the hands of the con
 As one of the team members has realised by tracking his expenses in a spreadsheet for the past few months - more than anything else, running a personal finance experiment of this sort gives you a lot of freedom and is, by nature, very empowering.
 > Apple CEO Tim Cook said in his announcement of the Apple Credit Card on March 26 in his concluding remarks, "At Apple, all our products are designed keeping the customer centre-stage" and we plan to do just that in our take on this project.
 
-Shuvam Mishra (3035550004) and Shreeya Agarwal (3035552519)
+ - Shuvam Mishra (3035550004) and Shreeya Agarwal (3035552519)
+ 
 Please contact us at shuvam@connect.hku.hk or shreeya5@connect.hku.hk
