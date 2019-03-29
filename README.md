@@ -11,10 +11,15 @@ For project details, scroll down to Program Features.
 
 ## Problem Setting:
 We shall focus on the 5 Ws:
+
 Who: People of all ages; in particular, anyone over 18
+
 What: A system to display, sort and analyse your personal finances by helping you keep a track of your income and expenditure sources
+
 When: Right now, as soon as the project is complete
+
 Where: Worldwide, since this is a public repo
+
 Why: Because we are truly passionate about this project and believe personally in its aims, methods and implementation.
 
 ## Program Features:
